@@ -705,7 +705,7 @@ I'd like
 TL
 Looked like
 <hr>
-![to的弱读](弱读.png)
+![to的弱读](弱读.png)  
 TY→CH: Can't you
 DY→J: Would you
 SY→Sh: miss you;sure
@@ -715,12 +715,12 @@ Exchange
 Price change
 Last chance
 <hr>
-![he略读](he略读.png)
+![he略读](he略读.png)  
 缩写不是为了缩短，而是因为有这种缩写的说法
 <hr>
 Have to be f
 <hr>
-![表面发音](表面发音.png)
+![表面发音](表面发音.png)  
 I live on Williams street. 鼻音
 <hr>
 om Tom闭口结尾
