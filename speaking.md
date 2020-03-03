@@ -673,7 +673,7 @@ Father
 Mother
 Other
 <hr>
-Fifteen
+Fifteen  
 Fifty
 <hr>
 b d g 声带震动的浊音
@@ -715,6 +715,7 @@ Exchange
 Price change
 Last chance
 <hr>
+
 ![he略读](he略读.png)  
 缩写不是为了缩短，而是因为有这种缩写的说法
 <hr>
@@ -730,5 +731,3 @@ om Tom闭口结尾
  ong喉咙发音 long
 <hr>
 cause because
-
-![test](表面发音.png)
