@@ -1,3 +1,4 @@
+# BASICS
 ## 节目
 
  Saturday night live
@@ -351,7 +352,7 @@ Well
 区分l和n，l是舌尖一点抵住上颚，n是舌头大面积抵住上颚
 ![LightLvsN](lightlvsn.png)  
 
-## Dark L
+### Dark L
 ![DarkL](darkl.png)  
 舌头后缩
 ![吁呜](吁呜.png)  
@@ -501,6 +502,7 @@ Each has his own task and nobody's dispensable.
 连读是自然的，不要为了连读而连读，连读的时候要想着连读前的单词，并注意节奏。
 h的略读还是有一点h的
 ## [ʔ] rent, button, cotton
+![喉塞音方法](喉塞音方法.png)
 还是要做要发t或者d的动作的
 喉塞音
 when t or d followed by n
@@ -540,6 +542,7 @@ garden
 后半句的baby因为不被强调（旧信息），而且前面的是清音t，所以浊化程度很低，甚至没有。
 ### 清清浊浊
 单词后面加s，清音后面就发清音s，浊音后面就发浊音z
+![清清浊浊](清清浊浊.png)
 ## 重读
 重读就是加长所重读音节里的元音
 ## Fully pronouncing each consonant
@@ -563,3 +566,165 @@ Twelve
 Twitter
 但是qw又是连起来读的
 Quick
+
+# Mike's
+Water
+Get in
+A lot of water
+A cup of tea
+<hr>
+She is hungry. She(y)iz hungry.
+She ate a burger. She(y) ate a burger.
+That boy is hungry. That boy(y)iz hungry.
+See Andrew
+<hr>
+Do it. Do(w)it.
+Go in. Go(w)in.
+You are. You(w)are.
+Go out. Go(w)out.
+How are you. How(w)are you.
+<hr>
+Do it. Do(w)it.
+He asked me for two apples.
+<hr>
+Did he get it. Di-diy ge-dit.
+He iy
+him im
+his iz
+her er
+has as
+have ave
+<hr>
+There's an elephant in the garden.
+I ate an apple and two pears.
+Those are the best tomatoes I've ever had.
+<hr>
+Old man. Ol man.
+Gold ring. Gol ring.
+Most famous. Mos'famous.
+Hand bag. Han bag.
+Next day. Nex day.
+World relationship. Worl relationship.
+That time
+Red dress
+Cheap places
+Feel lucky
+Quite tall
+Nice sofa
+<hr>
+Cheese sandwich
+Breathe through
+
+Each choice
+Orange juice
+<hr>
+Need two
+She asked David
+Dark green
+Sleep better
+Enough vests
+<hr>
+What do you want. Whatchu want.
+Would you. Wouldzhu.
+<hr>
+![美式音标](美式音标.png)
+Pen Open
+Making
+Come back again
+Apartment
+Lately
+Patent
+Button
+Certainly
+Oh Oh ?o ?o
+
+Genneral Patton
+President Clitton
+Important
+Accountant
+Seventy
+Going to
+I need to go.
+<hr>
+Twenty
+Interview
+International
+Wanted
+Isn't it
+Plenty
+Rental
+Dental
+Santa Claus
+跟他讲
+Gen Na Jiang
+<hr>
+t﹁是塞音，不是擦音
+This thought is good.
+Breathe it.
+Both are
+Worth it
+Throw
+Through
+d︹是塞音，不是擦音
+The
+There
+Seventy-five
+Father
+Mother
+Other
+<hr>
+Fifteen
+Fifty
+<hr>
+b d g 声带震动的浊音
+<hr>
+Down
+Town
+Found
+Sound
+<hr>
+At first
+Off at
+Advertise
+<hr>
+Throw
+Through
+Three
+
+Last train
+Last strain
+<hr>
+I'd never
+I never
+Wednesday
+Have you ever ridden a horse
+Written
+<hr>
+DL
+I'd like
+TL
+Looked like
+<hr>
+![to的弱读](弱读.png)
+TY→CH: Can't you
+DY→J: Would you
+SY→Sh: miss you;sure
+SY→ZH: because you; measure
+<hr>
+Exchange
+Price change
+Last chance
+<hr>
+![he略读](he略读.png)
+缩写不是为了缩短，而是因为有这种缩写的说法
+<hr>
+Have to be f
+<hr>
+![表面发音](表面发音.png)
+I live on Williams street. 鼻音
+<hr>
+om Tom闭口结尾
+ on 呢音结尾
+ ong喉咙发音 long
+<hr>
+cause because
