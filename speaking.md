@@ -802,9 +802,16 @@ Help
 
 Word world world
 
-###  dark L主要是舌根用力上抬，舌尖可以在后期贴上牙后牙龈，以便于后面变成light L连读:吁呜ld
+###  dark L主要是舌根用力上抬，舌尖可以在后期贴上牙后牙龈，以便于后面变成light L连读:吁呜ld,deal分三部分:第一是dea舌头正常发i；第二步发darkL的前半部分即舌根部分用力上抬，注意这时舌尖不要卷起；第三步舌尖伸出贴上颚发lightL的位置。
+
 
 ![Reachel DarkL](reacheldarkl.gif)  
+
+### Lisa's method is better and more useful
+
+![Lisa's dark L](Lisadarkl.gif)
+
+so the tongue is relax and it touches right behind the upper teeth and it stays there. So the American L is prolonged. It's softer and longer.舌头放轻松放在牙龈和上颚交接的突起处，轻放，温柔并拉长。
 
 ###  注意l如果跟后面的元音拼的话就不用发dark l的音了，feeling, tallest, I fell over yesterday.
 
@@ -1427,4 +1434,3 @@ om Tom闭口结尾
 <hr>
 
 cause because
-
