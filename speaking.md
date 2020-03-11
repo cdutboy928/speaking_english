@@ -158,7 +158,11 @@ The winter wind will bring a big chill
 
    美语比较夸张，基本上o都发成a，要发长音 stop impossible发长音
 
-   on
+What
+
+want
+
+on
 
    MacDonald
 
@@ -224,11 +228,13 @@ Applaud
 
 author
 
-Talk
+Talk l不发音
 
-Walk
+Walk  l不发音
 
 She is my audience
+
+Won't
 
 applaud applaud不用读太长，保持口型不变
 
@@ -239,6 +245,8 @@ Law
 Awful不用读太长，保持口型不变
 
 Pause
+
+Coffee
 
 He paused in the hall to talk with Paul.
 
@@ -270,6 +278,10 @@ Lunch
 
 Other done
 
+ month
+
+funny
+ 
 We must discuss this with the other judge.
 
 My buddy Doug is a wonderful drummer.
@@ -300,7 +312,7 @@ Doesn't study much and he loves to have fun.
 
  robber rubber
 
- [ə]  about, circus, complete,was
+ was was
 
 ## [ɚ]  hurt, chirp, perk,were, research, concern
 
@@ -385,6 +397,8 @@ Knew
 Two
 
 Suits
+
+You
 
 The report was due on Tuesday at noon.
 
@@ -534,7 +548,7 @@ My family understand that I can't handle that matter.
 
 ## [ɛ]
 
-张小口，舌头放松放在下牙后面
+张小口，也不是太小口，舌头放松放在下牙后面
 
 bet, bread, bare
 
@@ -567,6 +581,8 @@ New line line, ai first,  then n
 New line line里面的ai要发饱满了
 
 ## [eɪ]   rate, rain, break,Kate
+
+* Wait
 
 [ɪ]   kit, built, hymn
 
@@ -608,6 +624,8 @@ soap
 
 Boat
 
+Don't
+
 Bolt bolt boat bolt boat boat boat goat boat boat aunt boat vote both bolt don't boat boat boat both both both boat boat boat both both both both boat both both boat boat boat 先o然后快速ʊ，不要拉太长，太长就会成l
 
 Soap
@@ -647,6 +665,8 @@ How
 Vow
 
 Wow
+
+round  读英语要按音标发圆满，不要简化成一个中式的发音
 
 Discount
 
@@ -793,12 +813,19 @@ cool cool cool
 Help
 
 ??? Peel. Pee(y)l
+Here here here here here here here here shear Pier Pele here here she'll Pier Pier shiro Pele Pele Pier Pele here hero Pele pia Pele q Peter Pele
 
 ??? deal dea(y)l
 
+Deer deer deal deal deer deal beer deer deal gear deer steel feel deer deer deer deer deer deal deer deal d deer
+
 ??? Pool pu(w)l
 
+Cool cool cool cool true cool cool cruel cool pool so pool frou frou cruel cruel cool full full full
+
 ??? While
+
+Why Ryder why why while why are you why are you why are you why are you why while while why
 
 Word world world
 
@@ -811,7 +838,20 @@ Word world world
 
 ![Lisa's dark L](Lisadarkl.gif)
 
-so the tongue is relax and it touches right behind the upper teeth and it stays there. So the American L is prolonged. It's softer and longer.舌头放轻松放在牙龈和上颚交接的突起处，轻放，温柔并拉长。
+**so the tongue is relax and it touches right behind the upper teeth and it stays there. So the American L is prolonged. It's softer and longer.舌头放轻松放在牙龈和上颚交接的突起处，轻放，温柔并拉长。大舌头的感觉。
+就是后面lou把ou不发出声音，并且舌头改为轻放**
+
+I'm calling you to tell you about the film.
+
+I feel terrible about the political scandal.
+
+I think I'll be able to handle it by myself.
+
+You will do well at school.
+
+### elk
+We're going to add a k at the end of the word and say the word ELQ.
+The K is pronounced with the back of your tongue raised and this will help you feel the placement of the tongue for the dark L.
 
 ###  注意l如果跟后面的元音拼的话就不用发dark l的音了，feeling, tallest, I fell over yesterday.
 
@@ -823,7 +863,42 @@ so the tongue is relax and it touches right behind the upper teeth and it stays 
 
    w
 
-## !!!r
+## R [r] core, hard, real
+
+The American R is never silent. 
+
+The tip of your tongue should never touch the top behind your upper teeth. The tip of your tongue curls and we pull it back.
+
+基本上就是北京的儿化音。
+
+Your
+
+Four
+
+More
+
+other
+
+Learn
+
+German
+
+Robert
+
+First person
+
+Their computer isn't working.
+
+I gave her the four other pictures.
+
+Her fourth birthday is on Thursday.
+
+Her fourth birthday is on Thursday.
+
+There are many more over there.
+
+We were the first to arrive at the park.
+
 
 ## 音节
 
@@ -901,7 +976,7 @@ I'd love to go for a walk
 
 I'd love to go for a walk.
 
-## [θ] thick, throw, bath   
+## [θ] thick, throw, bath   [ð]   other, then, bathe
 
 Think
 
@@ -919,7 +994,46 @@ Choose a path
 
 th在最后的时候，前面的元音要发圆满稍长，然后用舌头尖或者舌头中部通过舌头左右搅动发出呲气声
 
+Be careful that your tongue doesn't touch too hard on your other teeth. Because if it does then you're not going to have any air coming through. You're going to be blocking the airflow. Make sure that your tongue slightly touch it. 
+
+If your tongue is too far inside and if it's not touching the teeth, the sound is going to be [s] instead of [θ].
+
+Make sure that your tongue touches the teeth. It doesn't to be very visible. If you speak like that it could slow down your speech. Song if you noticed American people don't stick out to that tone very much when they're producing the th. But they do touch the teeth with the tongue.
+
+舌头有伸出来一部分，不伸出来就会像s、z；但是不要咬紧，要轻些, 要有气流可以流出，咬紧就会像t d。大概伸出舌头的过了舌尖肉厚的那个地方轻一点就行了。大舌头的感觉。
+
+bath
+
+both
+
+math
+
+Thank you
+
+Thursday
+
+father
+
+Mother
+
+Thirsty
+
+I'm thirsty. Is there anything to drink in this place?
+
+I thought it was on Thursday at 3:30.
+
+This is my fourth month studying math.
+
+Both my mother and my father are healthy.
+
+Both my mother and my father are healthy.
+
+I think Matthew lives in the North.
+
+
 ## [ɾ] riddle, booty, center
+
+舌头稍微翘起来弹舌
 
 Better
 
@@ -936,6 +1050,10 @@ Doesn't matter
 Little bit
 
 Attack 
+
+yes it is
+
+Automatic
 
 Not at all 先not at, then at all
 
@@ -961,7 +1079,20 @@ all over
 
 Take over take over take over
 
+I got up at 11.
+
+Do you want to get in or get out?
+
+I bought it at a computer store.
+
+What a nice day it is.
+
+
+
 ## 连读
+把音读到位自然就出来连读了，特别是n,l,u之类的
+
+### 辅元连读
 
 ju其实算半元音，可以和其前面的辅音连读
 
@@ -969,13 +1100,188 @@ Thank you kju
 
 It's very kind of you vju
 
+not at all
+
+Get out of here
+
+stressed out
+
+All over all over
+
+get up
+
+Take over
+
+Just a little bit of
+
+What about it ice age
+
+I've seen the beginning of it, not all of it.
+
+Hey it is movie night. what movie do you want to watch.
+
+Good idea! I like it! Can't believe you haven't seen it before.
+
+All right. I'm gonna play it for you.
+
+Stop it
+
+workout
+
+
+
 Feel excited
 
 Confidence is the difference. 这里的confidence和is不连读，因为要强调confidence。一般不是句子里强调的关键词才连读。
 
 Sing a song不连读
 
-## [ŋ]   think, sing, tongue  
+### 辅辅连读
+
+* Get tired
+* Got tired of it
+* feel like
+* last time
+* You look cool in those jeans.
+* 
+* good movie前面被略读的辅音的口型还是要做的
+* Such a good movie
+* Credit card
+* Sit down
+* The squirrel is so funny.
+* Can't wait for next week
+* Can't wait for next week
+* Wow such a good movie
+* I just can't get tired of it
+* who doesn't
+* don't look at me
+* I tried to tell you last night
+* 
+
+#### stops and continuants
+
+Another way we categorize consonants besides voiced and voiceless is whether they are stops or continuants.
+
+A stop is a consonant that is produced when we stop the airflow. "Job" is a stop because we cannot pronounce the 'b' continually like 'b' 'b' 'b'... A continue is a consonant that we can pronounce it continually as long as there are air in our lungs. I can say 'yesssss'.
+
+A lot of people treat continuant like a stop. so take your time and fully pronounce the continuants. Prolong the continuants.
+
+Sometimes.
+
+have
+
+Do not release the stop if the stop is before a consonant.
+
+Pop music
+
+I love my new job.
+
+Job market
+
+Had this
+
+Job hunting
+
+ top model
+
+good boy
+
+that day
+
+not now
+
+No it's not
+
+I'm not that hot
+
+quite great
+
+you quiet right
+
+I can't go I can't go
+
+I can't do it
+
+I want that blue hat
+
+Robert, you might be right.
+
+It's not that different
+
+What did you eat last night?
+
+did you
+
+I can't wait for that flight. 虽然不发音，但是略微的停顿是有的。
+
+### 元元连读
+
+#### 加j
+![元元连读](元元连读.png)
+
+
+
+* May I have some milk tea
+* day off
+* Mentium diamond. A human being Dean and Dale India India
+* Day in and day out
+* Lie on the floor. Lie要念完整
+* The other
+* I owe you an apology
+* 
+
+#### 加w
+
+![元元加w](元元加w.png)
+
+* You are
+* How are you
+* How are you doing
+* Do it for what
+* Go away
+* he's
+* the best I ever had
+* Say it
+* who else
+* I know it
+* Just do it yourself. I'm gonna see Angelababy.
+* I'm going to lie in my bed and watch her show.
+* May I have some milk tea?
+* how lucky you are! when will you go?
+* I thought you were gonna see her in person
+
+## ju
+* You you
+* Use
+* Beauty
+* Thank you
+## what
+先准备好噘嘴w，然后基本上是[ʌ]，由噘嘴迅速变成夸张（tense）的t
+## [ŋ]   think, sing, tongue 
+
+### the 'ING' sound
+
+Iŋ是后鼻音，舌头后部上贴，跟发“哥”音的位置相近，舌头不用放松下来，或者就放下来一丢丢。
+
+working
+
+Doing
+
+Going
+
+thinking
+
+Sing
+
+Interesting
+
+I am thinking about buying the ring.
+
+Who are you bringing to the wedding?
+
+I know swimming, running, and playing tennis.
+
+
 
 Iŋ后面连读的话化成n  
 
@@ -1035,11 +1341,24 @@ What I eat in a day
 
 What I eat in a day
 
+保持发t的动作，舌头抵上牙，由鼻孔出气流发n。
+
+I am certain that's the tallest mountain.
+
+My cotton shirt has buttons.
+
+I have forgotten when the book was written.
+
+Martin was born in great Britain.
+
+
+
 ## [ɑr]注意儿化音
 
 garden
 
-## 清浊
+## 清浊 voiced and voiceless consonants
+
 
 清音不送气
 
@@ -1052,6 +1371,30 @@ garden
 有些不送气的清音发出来感觉声带震动的浊音是因为带着后面的元音，所有的元音都是浊音
 
 汉语里面的bdg实际上不是浊音，而是清音不送气
+
+A consonant can be either voiced or voiceless. All vowels are voiced.
+
+A voiced consonant or vowel is pronounced with vibration of vocal cords.
+
+Ed
+
+The vowel before the voiced consonant is pronounced longer than the vowel before the voiceless consonant.
+
+Ice eyes
+
+Back bag
+
+Safe save
+
+Pick pig
+
+ lock log
+
+Light lied
+
+Leaf leave
+
+Cup cub
 
 ### 浊音
 
@@ -1073,9 +1416,100 @@ garden
 
 ![清清浊浊](清清浊浊.png)
 
-## 重读
+## 'TU' and 'DU' sounds同化现象
+### 'TU' chew: t followed by j
+* Actually
+* Statue
+* Nature
+* can't you
+* Meet you meet you meet you
+* Last year
+* Got your back
+* Why can't you do it
+* Aren't you hungry?
+* Why won't you come
+* Why won't you help me
+* Let you
+* No problem. meet you at the old place.
+* Want you
+* Unto until until until until until until onto onto until I'm too aren't you aren't you onto onto aren't you onto aren't you on cue aren't you aren't you aren't you aren't you. !**[arnt]**真是要严格按照音标来念啊，不要简化成汉语发音
+* Aren't you graduating in the spring?
+* Can't you see the statue
+* You'll see
+### 'DU' new
+* Graduate
+* Education
+* Schedule
+* Individual
+* Did you
+* Did you call me
+* Did you come
+* Could you
+* Would you like something to eat
+* Would you like to see the schedule?
+* Did you get a college education
+* Need you
+* Who do you
+* When do you
+* How do you
+* What do you
+*  I failed you
+* Find your voice
+### s followed by j becomes to [ʃ]
+现在美国年轻人不怎么这么说了
+* Miss you
+* Bless you
+* Dress yourself
+* I miss you too.  but I need you to wait for a while. I'm almost done with work.
+* Hi Marin. This is Lisa. I miss you so much.
+### z followed by j becomes to [ʒ]
+* How's your day
+* How's your family
+* How's your boyfriend
+* When's your birthday
+* By the way how's your new boyfriend?
+* 
+## 缩读
+* 装垫儿台
+* 酱紫
+### 缩写形式的缩读
+* I'm [aɪm] 
+* You're
+* it's
+* He's
+* She's
+* I've
+* you've
+### to的缩读
+* I wanna
+* I gotta
+* Gonna
+* I'm gonna
+* You've gotta go
+* We wanna do that
+* He's gonna take it
+* It's kinda sad
+* Actually I'm gonna meet my friend soon.
+* I met her last night so I couldn't tell you earlier
+* I wish I could say that
+* Hey ice, I'm kinda bored. what you wanna do?
+* What! you have other friends? you should have told me.
+* Her? Come on!  just tell me she's your girlfriend.
+### of的缩读
+* I think I'm kinda handsome
+* I think I'm kinda handsome  [kaɪnə]
+* I'm kinda tired
+* 
+### have的缩读
+* coulda could have
+* Shoulda should have
+* I shoulda been rich.
+* 
+## Ed
 
-重读就是加长所重读音节里的元音
+*  t,d ending: [Id]
+* voiced ending: [d]
+* voiceless ending: [t]
 
 ## Fully pronouncing each consonant
 
@@ -1107,11 +1541,27 @@ Camaro Brown where to find downloads Terraria crying
 
 Trial Toronto swerve tomorrow 20 Corona throwing arm
 
+
+
+## W
+
+Round your lips and let the air flow out. It feels like I'm blowing a balloon.
+
+关键在于发音开始前的嘴型：像要吹气球前吸好气的动作，嘴形呈圆形。
+
 ## ??? tw qw
 
 tw是分开发的，t要很快
 
+**Your mouth will actually pronounce the T with the rounded lips of the w  sound. The t&w will be combined into one sound here.**
+
+先按twelouv读，再把ou去掉，并且舌头改为轻放。
+
+
 Twelve
+Carl's 12 tomorrow crime crown Clairol curl
+Cry cry cry cry twirls twirls torero torero square
+Terraria 12 Trev triumph triumph traer turn Nerf triumph 12 Torero's trials Terraria triumph 12 corrales Torero's Torero's triumph triumph Torero's Terraria 2 hours Terraria
 
 Twitter
 
@@ -1119,6 +1569,64 @@ Twitter
 
 Quick
 
+## 重读与弱读
+### 重读
+重读就是加长所重读音节里的元音
+
+* His daughter is doing her homework right now.
+* She lives and works in Italy.
+### 弱读
+* to [tə]
+* for [fə]
+* her [ɚ]
+  * Tell her
+* him [ɪm]
+  * Ask him
+* he [i]
+  * What's he saying
+* and [ɛn]
+  * You and me
+* The flowers are for you.
+* Give it to me
+* Alice is a coder.
+* She's at home.
+* she's at home
+* Let's go for a walk
+* He talked to me
+* Those are black and white
+* I saw them on the desk
+* Oh I thought they're yours. I don't even know Eddie wears glasses.
+*  you know he talks a lot
+* Lisa, did you see my glasses?
+* Come on! you know everything about Eddie.
+* Maybe just you. look! those are my glasses.
+* I'm gonna fight for you.
+* she listens to you.
+## 语调
+### 降调：陈述,祈使，感叹
+* That's rude
+* I really can't do it
+* You didn't mean it
+* don't do it
+* You are so rude
+### 疑问句
+#### 一般疑问句结尾升调，可以用yes或no来回答的
+* Are you kidding me?
+* You can buy me a drink. can't you?
+* You going home aren't you?
+* Do you have his phone number?
+* She's from the US, isn't she?
+#### 特殊疑问句用降调：不能用yes或no回答的疑问句
+* What's wrong?
+* What's your name?
+* What's wrong with you?
+* What time is the meeting?
+* How are you doing?
+#### 选择疑问句：高平，高平，降
+* Would you like some tea, coffee, or water?
+* Do you like jazz, hip-hop, or Rock?
+* Do you want to play football basketball or baseball?
+* 
 # Mike's
 
 Water
