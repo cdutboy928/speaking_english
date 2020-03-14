@@ -2,9 +2,9 @@
 
 ## 节目
 
- Saturday night live
-
- M.nam
+ * Saturday night live
+ * Rapper: Eminem
+ * show: the Ellen show; Conan
 
 ## 国际美语音标
 
@@ -129,28 +129,23 @@ Hot hut
 Steal still
 
 ## 假笑i 子弹I
-
-Movie movie
-
-美式不是长短音的区别
-
-[i] [ɪ]
-
 Not long or short, but tense or relax
-
-These this
-
-Feeling
-
-She was feeling sleepy after eating the big meal.
-
-These three people speak Chinese.
-
-We love the green fields and the beach breezes.
-
-There are six filthy dishes in the kitchen sink.
-
-The winter wind will bring a big chill
+### 假笑i
+美式不是长短音的区别,i也可以发的短
+* usually usually 
+* Early
+* Movie movie
+* These this
+* Feeling
+* She was feeling sleepy after eating the big meal.
+* These three people speak Chinese.
+* We love the green fields and the beach breezes.
+### [ɪ] 诶
+发音类似汉语的“诶”但不全是，发音短促，介于/i/与/eɪ/之间的一种音，读的感觉很随意,不经意
+* English
+* There are six filthy dishes in the kitchen sink.
+* The winter wind will bring a big chill
+* Naive
 
 ## [ɑ] lock, what, hard
 
@@ -203,8 +198,15 @@ on
    If you gossip about your boss, you might lose your job.
 
 ## [ɔ]
+注意[ɔ]张嘴较小，有点像奥了，是靠后的音。
+
+1.学习该音发音方法请先学习/ɔː/和/ɪ/这两个单元音。发音时下颌张开，嘴唇略呈圆形，稍稍向外突出。舌前部收缩，舌后部向软颚抬起，但不要接触到软颚。舌身放松前探，舌尖轻触下齿，舌前部微微抬起。整个过程就是从/ɔː/音慢慢滑向/ɪ/。 
 
 dog, law, talk 
+
+Story
+
+daughter
 
 Call 
 
@@ -262,6 +264,21 @@ It's awful that he always breaks the law.
 
 He's exhausted because he's been rural King walking all day long.
 
+## [ɔr]
+注意[ɔ]张嘴较小，有点像奥了，是靠后的音。然后是明显的卷舌[r]
+* floor
+* short
+* Airport
+* Court
+* door
+* Your
+* Yours y'alls yours yours yours
+* record
+## [ɔɪ]  coil, toy, boy
+* Boy
+* toy
+* Royal
+* 
 ## [ʌ]   cut, son, flood
 
 but中毒啊，张小嘴，比[ə]有力些
@@ -281,6 +298,8 @@ Other done
  month
 
 funny
+
+From
  
 We must discuss this with the other judge.
 
@@ -424,7 +443,7 @@ Susan wore her new shoes to school.
 
 put, look, wolf  
 
-Look good 发一半的u
+Look good 发一半的u，发[ə]的音微微噘嘴就行了
 
 Should
 
@@ -548,11 +567,14 @@ My family understand that I can't handle that matter.
 
 ## [ɛ]
 
-张小口，也不是太小口，舌头放松放在下牙后面
+张小口一指宽，嘴部肌肉像微笑向两边，舌头放松放在下牙后面，不经意的感觉
 
 bet, bread, bare
 
-[ɛ]   bet, bread, bare
+*  better
+* weather
+* pleasure
+* Again
 
 张很小的嘴，舌头轻放在下牙后面
 
@@ -562,6 +584,16 @@ think, sing, tongue
 
 Long lɔŋ  要落回到鼻音上
 
+monkey
+
+Swimming
+
+ running
+
+Sing
+
+
+
 嘴巴张开，舌头抬起时贴住软腭，阻止气流从口腔泄出,软腭下垂，气流从鼻腔泄出，同时震动声带发声
 
 ŋ是个浊辅音，声带振动
@@ -569,6 +601,22 @@ Long lɔŋ  要落回到鼻音上
 和拼音中的ng很像，可以先把拼音中的ang,ing,eng练一下
 
 放到单词里面读就行
+
+## n
+
+/n/:微微张开嘴巴，舌尖紧贴上齿龈，形成阻碍。气流从鼻腔泄出，同时声带震动发出声音。n/是个鼻音、浊辅音，依靠声音震动发声，当/n/出现在音节结尾处时要略微延长。/ŋ/:嘴唇张开，舌后部抬起贴住软腭，阻止气流从口腔泄出。 2）软腭下垂，气流从鼻腔泄出，同时震动声带发音。 放在熟悉的单词中去感受，sin，sing
+
+![tongue position of n](n.jgp)
+
+* Sign 
+* fine
+* 9
+
+## t&d&l&n
+发这三个音的时候舌尖都不要碰到牙齿，碰牙龈。n的舌头大面积接触牙龈
+
+齿龈-牙根周围的粉红色黏膜组织，内有血管和神经。通称牙床。如果碰到了牙齿就往回收一些，碰到牙根没关系。
+
 
 ## [aɪ]   
 
@@ -581,8 +629,20 @@ New line line, ai first,  then n
 New line line里面的ai要发饱满了
 
 ## [eɪ]   rate, rain, break,Kate
-
+先[e]然后平滑到[ɪ]
 * Wait
+* play
+* Gray
+* Taste
+* shake
+* Hate
+* Monday
+* Tuesday
+* Wednesday
+* Thursday
+* Friday
+* Saturday
+* Sunday
 
 [ɪ]   kit, built, hymn
 
@@ -646,6 +706,8 @@ Lonely
 
 soldier
 
+zone
+
 The lonely soldier wrote home.
 
 The wind mostly blows over the ocean.
@@ -677,6 +739,8 @@ Discount
 The North Face
 
 Usually
+
+美式发音位置比较靠前，有些时候[aʊ]会变成[æʊ]
 
 ## ??? l n
 
@@ -796,6 +860,8 @@ old  old old
 
 illegal illegal
 
+cultural
+
 I will call you to tell you about the film.
 
 I feel terrible about the political scandal.
@@ -840,6 +906,10 @@ Word world world
 
 **so the tongue is relax and it touches right behind the upper teeth and it stays there. So the American L is prolonged. It's softer and longer.舌头放轻松放在牙龈和上颚交接的突起处，轻放，温柔并拉长。大舌头的感觉。
 就是后面lou把ou不发出声音，并且舌头改为轻放**
+
+* she'll
+* I'll
+* he'll
 
 I'm calling you to tell you about the film.
 
@@ -940,43 +1010,11 @@ Let's go to the park.
 
 I got a job at the hospital.
 
-## Reduced vowels
 
-结尾不强调的音弱化成ə
-
-symbol
-
-Local
-
-Local
-
-record
-
-一般介词不强调的时候也会弱化成ə，比如at, for, in, on, with, by等。这些接触要读的很轻
-
-O'clock ə
-
-Look at me ət
-
-I'd like to talk to you 
-
-I'd like tə talk tə you
-
-I'm looking for you
-
-I'm looking fər you
-
-Let's meet at 2:00
-
-I'd like to talk to the pilot
-
-Let's meet for breakfast.
-
-I'd love to go for a walk
-
-I'd love to go for a walk.
 
 ## [θ] thick, throw, bath   [ð]   other, then, bathe
+
+is the: 先发iz，然后发th时舌尖抵上牙尖代替咬舌
 
 Think
 
@@ -1030,6 +1068,16 @@ Both my mother and my father are healthy.
 
 I think Matthew lives in the North.
 
+with
+
+## s&z
+上了音标课才发现is，was，he‘s，she's里面的s音标都是/z/，为什么这么多年都完全没听出来呢，感觉美剧电影里他们读的也是/s/。
+/z/读的很轻时确实听上去像s，这个听音辨音能力大部分人都不具备
+* mrs.
+* Miss 
+* Ms
+
+
 
 ## [ɾ] riddle, booty, center
 
@@ -1049,6 +1097,8 @@ Doesn't matter
 
 Little bit
 
+Italy
+
 Attack 
 
 yes it is
@@ -1060,6 +1110,8 @@ Not at all 先not at, then at all
 A little bit of
 
 I'm a writer ai要发圆满，弹舌要轻一点。
+
+What are you
 
 Let it go let it go play it again let it go let it go let it go let it go let it go let it go （it的t虽然不发音，但是有发音的动作，所以会造成i后面稍微的停顿）
 
@@ -1245,9 +1297,9 @@ I can't wait for that flight. 虽然不发音，但是略微的停顿是有的�
 * who else
 * I know it
 * Just do it yourself. I'm gonna see Angelababy.
-* I'm going to lie in my bed and watch her show.
+* I'm going to lie in my bed and watch her show. **Watch击穿her的h**
 * May I have some milk tea?
-* how lucky you are! when will you go?
+* how lucky you are! when will you go? **will和you连读**
 * I thought you were gonna see her in person
 
 ## ju
@@ -1311,6 +1363,15 @@ T的吞音，像嗯又不像嗯的音,丹田发音
 
 喉塞音的关键在于前面元音的收住和停顿。
 
+发音t被声门闭塞的声音代替，以至于听起来像是在说话中停顿或者跳过了这个音节。在第一个音节末尾含住舌根的气息，然后在发第二个音节的时候才把它吐出来。
+
+在第一个音节末尾含住舌根的气息，然后在发第二个音节的时候才把它吐出来。(fountain → foun'ain, button → but'en)
+
+发音方法是闭塞，即是通过阻碍空气在声腔流动来发音。发音部位是声门，通过声门闭塞而发音。喉塞音就是不读出t/d来，突然收声缩短前面的元音
+
+一顿的感觉
+
+
 uh oh
 
 Important
@@ -1354,8 +1415,14 @@ Martin was born in great Britain.
 
 
 ## [ɑr]注意儿化音
-
-garden
+注意前面的[ɑ]要张大嘴发饱满,然后要有明显的卷舌的[r]
+* Star
+* garden
+* Car
+* far
+* Hard
+* Sharp
+* 
 
 ## 清浊 voiced and voiceless consonants
 
@@ -1367,6 +1434,10 @@ garden
 浊音声带震动
 
 还有清音不送气的，不是浊音
+* Adopted
+* make it
+* happen
+* 
 
 有些不送气的清音发出来感觉声带震动的浊音是因为带着后面的元音，所有的元音都是浊音
 
@@ -1398,7 +1469,7 @@ Cup cub
 
 ### 浊音
 
-念出足够浊的浊音，或者说避免发成你说的"不送气清音"，我们的确可以采用在bdg等浊塞音前加一个相对应的鼻音m/n/ng来带动这个塞音。但是m只适用于同样是双唇音的b；而d更适合加n，g前加ng。
+**念出足够浊的浊音，或者说避免发成你说的"不送气清音"，我们的确可以采用在bdg等浊塞音前加一个相对应的鼻音m/n/ng来带动这个塞音。但是m只适用于同样是双唇音的b；而d更适合加n，g前加ng。其他的浊辅音也基本上是这样在前面加一个合适的鼻音来发音。**
 
 所以，my baby的夸张浊音读法为：my m~mbaby! （m的持续时间根据你个人喜好控制）
 
@@ -1551,7 +1622,9 @@ Round your lips and let the air flow out. It feels like I'm blowing a balloon.
 
 ## ??? tw qw
 
-tw是分开发的，t要很快
+在two里面tw是一起读的
+
+在twelve和twenty和between里面tw是分开发的，t要很快
 
 **Your mouth will actually pronounce the T with the rounded lips of the w  sound. The t&w will be combined into one sound here.**
 
@@ -1575,11 +1648,52 @@ Quick
 
 * His daughter is doing her homework right now.
 * She lives and works in Italy.
-### 弱读
+### 弱读 Reduced vowels
+
+结尾不强调的音弱化成ə
+
+symbol
+
+Local
+
+Local
+
+record
+
+because 
+
+become
+
+一般介词不强调的时候也会弱化成ə，比如at, for, in, on, with, by等。这些接触要读的很轻
+
+O'clock ə
+
+Look at me ət
+
+I'd like to talk to you 
+
+I'd like tə talk tə you
+
+I'm looking for you
+
+I'm looking fər you
+
+Let's meet at 2:00
+
+I'd like to talk to the pilot
+
+Let's meet for breakfast.
+
+I'd love to go for a walk
+
+I'd love to go for a walk.
+
 * to [tə]
 * for [fə]
+* have to [hæftə]
 * her [ɚ]
   * Tell her
+* Where are you: are [ə]
 * him [ɪm]
   * Ask him
 * he [i]
@@ -1602,6 +1716,7 @@ Quick
 * Maybe just you. look! those are my glasses.
 * I'm gonna fight for you.
 * she listens to you.
+* Go to school里的to不弱读！
 ## 语调
 ### 降调：陈述,祈使，感叹
 * That's rude
@@ -1623,6 +1738,7 @@ Quick
 * What time is the meeting?
 * How are you doing?
 #### 选择疑问句：高平，高平，降
+* 这些都是要根据具体语境而定的，课程上总结的只是大部分情况。而且语音语调因人而异，可以自己做决定，选择更为舒服的表达（白人女孩儿喜欢用升调
 * Would you like some tea, coffee, or water?
 * Do you like jazz, hip-hop, or Rock?
 * Do you want to play football basketball or baseball?
