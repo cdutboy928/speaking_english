@@ -285,15 +285,6 @@ but中毒啊，张小嘴，比[ə]有力些
 * Don't worry about learning those German words.
 * The early bird always gets the worm.
 
-### [ɑr]注意儿化音
-注意前面的[ɑ]要张大嘴发饱满,然后要有明显的卷舌的[r]
-* Star
-* garden
-* Car
-* far
-* Hard
-* Sharp
-
 ### [u]
 * root, tube, group
 * Luke靠前，亲亲
@@ -419,6 +410,15 @@ but中毒啊，张小嘴，比[ə]有力些
 New line line, ai first,  then n
 
 New line line里面的ai要发饱满了
+
+### [ɑr]注意儿化音
+注意前面的[ɑ]要张大嘴发饱满,然后要有明显的卷舌的[r]
+* Star
+* garden
+* Car
+* far
+* Hard
+* Sharp
 
 ### [æ]
 嘴要张开到位，时间要稍长
