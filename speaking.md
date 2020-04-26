@@ -1,5 +1,18 @@
 # BASICS
-
+## some basic concepts
+### learning phrases
+* Be aware that you're pronouncing wrongly
+* change the accent and practice over and over
+* But when you're in conversation, thinking about what to say, you'll find you still say it wrong, which is frustrating.
+* How do you bridge your practice time to real speaking in real conversations? It's actually simple.  just more training. Imitate a native speaker by going to forvo. com or youglish.com to hear many samples.
+* As you do more training you'll be able to think about the right pronunciation. Just as your brain has come up with the word and you want to say it. And with more training and more time you no longer even think about it.
+* And the more you learn about pronunciation the more habits you want to change but you can change them. And don't let the work that is necessary turn you off. I've seen hundreds of students change their habit through regular training, repetition. Maybe there's a particular word that you couldn't say correctly that you now say without effort. 
+### vertical speaking vs horizontal speaking
+And I'm here to tell you to relax. Today's practice tip is about thinking vertically rather than horizontally when you speak.
+A lot of my students are amazed to discover that speaking English can actually thinking less effort than they are currently using. some students tend to pull the lips back wide when they are speaking English. I called this speaking horizontally. It's like a bit of a smile on my face. And it tends to limit how much I drop my jaw. It also changes the way I sound. It takes my vocal placement from a lower resonance to higher resonance. We went to the low open chest resonance when speaking English. 
+There are a few sounds in English that might require a little bit of horizontal stretch from the  lips. For instance, the EE vowel in 'me'. many students like to pull their lips back for this vowel sound. That's fine. and you will achieve a clear EE vowel when you do that. But when you watch native speakers use words with the EE vowel. You'll notice that if the lips Conners pull back, it's a very subtle movement. 
+ for example, 'easy'. My lip corners are barely pulling wide. most of the 
+ EE vowel is made with the middle of my tongue arching up in the mouth.
 ## 节目
  * Saturday night live
  * Rapper: Eminem
@@ -199,6 +212,7 @@ Not long or short, but tense or relax
 * Awful不用读太长，保持口型不变
 * Pause
 * Coffee
+* Horizontal
 * He paused in the hall to talk with Paul.
 * The author talked to the small audience.
 * The author talked to the small audience.
@@ -240,6 +254,15 @@ but中毒啊，张小嘴，比[ə]有力些
 * On Sunday I had duck for lunch with my cousin.
 * He doesn't study much and he loves to have fun.
 * Doesn't study much and he loves to have fun.
+* Stuff *stressed: drop-down*
+* Sometimes
+* Money
+* above
+* fun
+* undo *unstressed: flat*
+* Untie
+* Undo
+* a very subtle movement 快速不经意
 
 ### [ə]
  放松额
@@ -453,6 +476,7 @@ New line line里面的ai要发饱满了
 * weather
 * pleasure
 * Again
+* many 特小特随意
 
 ### [eɪ]   rate, rain, break,Kate
 先[e]然后平滑到[ɪ]
@@ -1185,7 +1209,7 @@ Don't be lazy
 * Maybe just you. look! those are my glasses.
 * I'm gonna fight for you.
 * she listens to you.
-* Go to school里的to不弱读！
+* Go to school里的to不弱读!
 
 ### 语调
 #### 降调：陈述,祈使，感叹
